@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 I’m a scientist, doing what I can to become a competent coder. 
+I'm using Python at the moment, but hope to add other languages to my skillset. 
 <!--
 **DangOlDave/DangOlDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
