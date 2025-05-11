@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, y'all 👋
 🔭 I’m a scientist, doing what I can to become a competent coder. 
 I'm using Python at the moment, but hope to add other languages to my skillset. 
 <!--
