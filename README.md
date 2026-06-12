@@ -1,7 +1,8 @@
 ## Hi, y'all 👋
 🔭 I’m a scientist, not a great coder but determined to use it to do stuff. 
 I'm using Python and Arduino C++ at the moment, but hope to add other languages to my skillset.
-I work a lot with ESP32 and related, and am toying with STM32 and FPGA stuff.
+I work a lot with ESP32 and related, and am toying with STM32 and FPGA stuff.I will also use this depository for 
+circuits and boards in KiCad.
 <!--
 **DangOlDave/DangOlDave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
